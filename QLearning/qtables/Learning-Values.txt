@@ -1,0 +1,72 @@
+Episode:	0
+Average:	-200.0
+Min:	-200.0
+Max:	-200.0
+
+
+Episode:	500
+Average:	-200.0
+Min:	-200.0
+Max:	-200.0
+
+
+Episode:	1000
+Average:	-199.838
+Min:	-200.0
+Max:	-166.0
+
+
+Episode:	1500
+Average:	-197.814
+Min:	-200.0
+Max:	-155.0
+
+
+Episode:	2000
+Average:	-194.502
+Min:	-200.0
+Max:	-155.0
+
+
+Episode:	2500
+Average:	-191.688
+Min:	-200.0
+Max:	-120.0
+
+
+Episode:	3000
+Average:	-171.802
+Min:	-200.0
+Max:	-116.0
+
+
+Episode:	3500
+Average:	-165.278
+Min:	-200.0
+Max:	-114.0
+
+
+Episode:	4000
+Average:	-160.33
+Min:	-200.0
+Max:	-93.0
+
+
+Episode:	4500
+Average:	-172.464
+Min:	-200.0
+Max:	-115.0
+
+
+Episode:	5000
+Average:	-168.796
+Min:	-200.0
+Max:	-131.0
+
+
+Episode:	5500
+Average:	-168.834
+Min:	-200.0
+Max:	-142.0
+
+
